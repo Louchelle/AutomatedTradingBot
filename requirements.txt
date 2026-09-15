@@ -1,0 +1,5 @@
+tkmacosx==1.0.5
+requests==2.32.4
+pandas==2.3.0
+python-dateutil==2.9.0
+websocket_client==1.8.0

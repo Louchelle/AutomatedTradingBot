@@ -1,0 +1,6 @@
+2026-09-11 16:00:46 | 🔴 LOSS | BTCUSDT LONG | PnL: -0.11% | Profit: $-0.08
+2026-09-11 19:46:25 | 🟢 WIN | BTCUSDT SHORT | PnL: 0.02% | Profit: $0.02
+2026-09-11 21:48:09 | 🟢 WIN | BTCUSDT LONG | PnL: 0.02% | Profit: $0.01
+2026-09-11 23:25:08 | 🔴 LOSS | BTCUSDT SHORT | PnL: -0.19% | Profit: $-0.15
+2026-09-12 09:00:09 | 🔴 LOSS | BTCUSDT LONG | PnL: -0.18% | Profit: $-0.14
+2026-09-12 12:10:30 | 🟢 WIN | BTCUSDT LONG | PnL: 0.02% | Profit: $0.02
